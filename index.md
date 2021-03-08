@@ -184,7 +184,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="register_link">
-    <strong>Registration:</strong>
+    <h3>Registration:</h3>
     <a href="https://events.miami.edu/event/python-workshop" target="_blank">https://events.miami.edu/event/python-workshop</a>
 </p>
 
