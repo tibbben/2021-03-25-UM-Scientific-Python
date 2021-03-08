@@ -265,12 +265,10 @@ CURRICULUM LINKS
 <p><a href="https://swcarpentry.github.io/python-novice-inflammation/" target="_blank">Programming with Python</a></p>
 <p><a href="http://swcarpentry.github.io/git-novice/" target="_blank">Version Control with Git</a></p>
 
-<hr/>
-
 {% comment %}
 ETHICS SECTION
 {% endcomment %}
-<h2 id="ethics">Special Program in Ethics for Scientific Writing and Coding</h2>
+<h3 id="ethics">Special Program in Ethics for Scientific Writing and Coding</h3>
 <p>As part of this 2-day workshop, two guest speakers will join us for a Special Program in Ethics for Scientific Writing and Coding:</p>
 <p>Joanna Johnson, PhD, Writing Program, "Writing and Reproducibility"</p>
 <p>Kenneth W. Goodman, PhD, Institute for Bioethics and Health Policy, "Ethics and Software Standards"</p>
