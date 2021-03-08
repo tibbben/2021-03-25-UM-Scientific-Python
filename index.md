@@ -259,11 +259,21 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% comment %}
 CURRICULUM LINKS
 {% endcomment %}
-<h2 id="surveys">Curriculum</h2>
+<h2 id="curriculum">Curriculum</h2>
 <p>All of the course content can be viewed through these links:</p>
 <p><a href="http://swcarpentry.github.io/shell-novice/" target="_blank">The Unix Shell</a></p>
 <p><a href="https://swcarpentry.github.io/python-novice-inflammation/" target="_blank">Programming with Python</a></p>
 <p><a href="http://swcarpentry.github.io/git-novice/" target="_blank">Version Control with Git</a></p>
+
+<hr/>
+
+{% comment %}
+ETHICS SECTION
+{% endcomment %}
+<h2 id="ethics">Special Program in Ethics for Scientific Writing and Coding</h2>
+<p>As part of this 2-day workshop, two guest speakers will join us for a Special Program in Ethics for Scientific Writing and Coding:</p>
+<p>Joanna Johnson, PhD, Writing Program, "Writing and Reproducibility"</p>
+<p>Kenneth W. Goodman, PhD, Institute for Bioethics and Health Policy, "Ethics and Software Standards"</p>
 
 <hr/>
 
